@@ -1,0 +1,9 @@
+{
+  "name": "home_sweet_home",
+  "version": "0.0.1",
+  "title": "home sweet home",
+  "author": "skr",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "where is my home dude"
+}
